@@ -1,0 +1,8 @@
+title: HaoHuaqing's Personal Website
+description: "We are all in the gutter, but some of us are looking at the stars. "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
